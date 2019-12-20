@@ -62,4 +62,5 @@ Power usage by hour average  This plot is a little more accurate then the above.
 - For time series it is necessary to have a lot of data. The improvement in the models from the first data set to the second is substantial
 - The facebook prophet model had a RMSE of about 224,000 compared to the Sarimax model which had a RMSE of 159,000.  
 - Overall the Sarimax Model was predicting with a high enough accuracy for it to be useful. 
+- It is visable in the images above how much of a better job the Sarimax model does then the facebook prophet model at getting the tops of the cycle.  The smoothing in the facebook prophet model stops it from accurately predicting the data. 
 
