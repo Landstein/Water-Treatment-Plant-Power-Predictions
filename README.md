@@ -21,6 +21,10 @@ Power is measured in kWh
 Plot of the Data from Power Generator A. 
 ![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20Month%20Data.png)
 
+Power A average power based on the time of day.  Shows there is some daily seasonality within each cycle 
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20Month%20Box%20Plot%20.png)
+
+
 **Movie revenue by month**
 
 From the data it is hard to determine if there is a best month to release a movie as April had the Avengers which was a big outlier.  Though it is safe to say that August was the worst performing month.  
