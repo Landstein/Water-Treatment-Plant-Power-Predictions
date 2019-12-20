@@ -50,7 +50,7 @@ Power usage by hour average  This plot is a little more accurate then the above.
 
 
 ### Facebook Prophet Model 
-![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Total%20Power%20Sarima.png)
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Facebook%20Prophet.png)
 
 
 ### Final Sarimax Model 
