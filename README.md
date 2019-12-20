@@ -16,7 +16,7 @@ The Final Dataset was 1 year of hourly data. (8731 Data Points)
 
 Power is measured in kWh
 
-### EDA 
+### Initial EDA 
 
 Plot of the Data from Power Generator A. 
 ![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20Month%20Data.png)
@@ -29,6 +29,9 @@ Power A daily cycle.  Shows the daily seasonality
 
 Power A overall trend
 ![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20month%20trend.png)
+
+### Initial Sarima Model 
+
 
 
 **Movie revenue by month**
