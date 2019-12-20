@@ -31,46 +31,13 @@ Power A overall trend
 ![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20month%20trend.png)
 
 ### Initial Sarima Model 
-
+Initial Sarima Model definitely got the overall trend, but was only able to hold the prediction two days into the future.  
 ![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%20Sarima%20Model.png)
 
 
+**To improve the model I used a second data set with 1 Year of hourly Data** 
 
-**Movie revenue by month**
 
-From the data it is hard to determine if there is a best month to release a movie as April had the Avengers which was a big outlier.  Though it is safe to say that August was the worst performing month.  
-
-![](https://github.com/Landstein/TopMovies/blob/master/images/Movie_release_month.png)
-
-**Profitability**
-
-For this category we looked at which movies had the best return on their investment.  
-
-![](https://github.com/Landstein/TopMovies/blob/master/images/top_profit.png)
-
-The Movies in Red are
-
-- Bohemian Rhapsody
-- A Star is born 
-- A Quiet Place
-- The Nun 
-- Peter Rabbit
-- Fifty Shades Freed 
-- Green Book
-
-**Genre**
-
-Compared Genres that showed up in the movies that had the best revenue per budget against the other top 100 movies 
-
-![](https://github.com/Landstein/TopMovies/blob/master/images/genre.png)
-
-**Home Sales**
-
-Lastly we looked at DVD and Blu Ray sales to see if there was any indicator of what type of movie has the best after theater sales.  Overall it was pretty consistant. 
-
-![](https://github.com/Landstein/TopMovies/blob/master/images/homesales.png)
-
-![](https://github.com/Landstein/TopMovies/blob/master/images/revenueandhomesales.png)
 
 ### Conclusions 
 
