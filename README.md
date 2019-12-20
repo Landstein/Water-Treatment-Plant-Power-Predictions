@@ -32,6 +32,8 @@ Power A overall trend
 
 ### Initial Sarima Model 
 
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%20Sarima%20Model.png)
+
 
 
 **Movie revenue by month**
