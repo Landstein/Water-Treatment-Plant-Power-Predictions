@@ -38,6 +38,13 @@ Initial Sarima Model definitely got the overall trend, but was only able to hold
 **To improve the model I used a second data set with 1 Year of hourly Data** 
 
 
+### 1 Year hourly Dataset EDA 
+Following EDA used the second dataset with 8731 data points over a year. 
+
+
+
+
+
 
 ### Conclusions 
 
