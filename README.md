@@ -21,8 +21,14 @@ Power is measured in kWh
 Plot of the Data from Power Generator A. 
 ![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20Month%20Data.png)
 
-Power A average power based on the time of day.  Shows there is some daily seasonality within each cycle 
+Power A average power based on the time of day.  Shows there is some daily seasonality within each cycle.  Can see the water treatment plant is using the least power around 4 A.M. and the around 8 P.M.. 
 ![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20Month%20Box%20Plot%20.png)
+
+Power A daily cycle.  Shows the daily seasonality 
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/ETS%204%20hour%20Cycle%20.png)
+
+Power A overall trend
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Power%20A%204%20month%20trend.png)
 
 
 **Movie revenue by month**
