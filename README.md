@@ -41,14 +41,25 @@ Initial Sarima Model definitely got the overall trend, but was only able to hold
 ### 1 Year hourly Dataset EDA 
 Following EDA used the second dataset with 8731 data points over a year. 
 
+Plot of the Power usage over 1 year
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Total%20Power%20data.png)
 
 
+Power usage by hour average  This plot is a little more accurate then the above.  The low of the day is around 5 A.M. and the peak is around 9 - 11 P.M. 
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Total%20Power%20Boxplot.png)
 
+
+### Facebook Prophet Model 
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Total%20Power%20Sarima.png)
+
+
+### Final Sarimax Model 
+![](https://github.com/Landstein/Water-Treatment-Plant-Power-Predictions/blob/master/images/Total%20Power%20Sarima.png)
 
 
 ### Conclusions 
 
-- The best performing genres were Drama, Horror, Music and Romance 
-- Best Months to release a movie: April, June, July December 
-- Worst Month to release a movie: August 
-- If a movie is in the top 100 grossing for the year.  It will likely have good DVD / Blu Ray sales 
+- For time series it is necessary to have a lot of data. The improvement in the models from the first data set to the second is substantial
+- The facebook prophet model had a RMSE of about 224,000 compared to the Sarimax model which had a RMSE of 159,000.  
+- Overall the Sarimax Model was predicting with a high enough accuracy for it to be useful. 
+
